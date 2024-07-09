@@ -1,0 +1,18 @@
+gomex_cropped:
+  description: gomex cropped
+  projection:
+    proj: laea
+    lat_0: 31.5
+    lon_0: -86
+    x_0: 0
+    y_0: 0
+    ellps: WGS84
+    no_defs: null
+    type: crs
+  shape:
+    height: 160
+    width: 224
+  area_extent:
+    lower_left_xy: [-243610.7245419195, -268401.60062128643]
+    upper_right_xy: [206089.1156085343, 52120.391789684625]
+    units: m
